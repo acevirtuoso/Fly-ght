@@ -10,15 +10,15 @@ In this project, you will be working on a web-based system for a fictional airli
 ## Key Features
 The Flight Reservation Web Application includes functionalities for users and airline agents, such as:
 
-## Browsing available flights
-Selecting flights
-Viewing seat maps
-Selecting seats (regular or business-class)
-Opting for ticket cancellation insurance
-Making payments
-Receiving tickets and receipts via email
-Cancelling flights
-Airline agents and flight attendants have additional functionalities, including browsing passenger lists, while system admins can manage flight information and other database-related tasks.
+- Browsing available flights
+- Selecting flights
+- Viewing seat maps
+- Selecting seats (regular or business-class)
+- Opting for ticket cancellation insurance
+- Making payments
+- Receiving tickets and receipts via email
+- Cancelling flights
+- Airline agents and flight attendants have additional functionalities, including browsing passenger lists, while system admins can manage flight information and other database-related tasks.
 
 ## Additional Information
 The application represents a single airline company with different seat types, each with varying prices.
