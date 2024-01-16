@@ -1,0 +1,17 @@
+.login-signup-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+body {
+  overflow: hidden;
+}
+
+.form-control {
+  height: 50px !important;
+  width: 600px !important;
+  font-size: 18px !important;
+}
